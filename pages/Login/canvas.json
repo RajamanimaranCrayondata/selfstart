@@ -188,6 +188,7 @@
                       "labelPosition": "Left",
                       "labelStyle": "BOLD",
                       "inputType": "PASSWORD",
+                      "placeholderText": "Credentials",
                       "isDisabled": false,
                       "key": "9pbmq2qi68",
                       "labelTextSize": "0.875rem",
@@ -245,7 +246,7 @@
                           "key": "borderRadius"
                         }
                       ],
-                      "text": "Submit",
+                      "text": "Sign In",
                       "isDisabled": false,
                       "key": "i2ou86rm43",
                       "isDeprecated": false,
